@@ -1,0 +1,11 @@
+D:\freshman summer\runner game\bin\Debug\runner game.exe.config
+D:\freshman summer\runner game\bin\Debug\runner game.exe
+D:\freshman summer\runner game\bin\Debug\runner game.pdb
+D:\freshman summer\runner game\obj\Debug\runner game.csproj.AssemblyReference.cache
+D:\freshman summer\runner game\obj\Debug\runner game.csproj.SuggestedBindingRedirects.cache
+D:\freshman summer\runner game\obj\Debug\runner_game.Form1.resources
+D:\freshman summer\runner game\obj\Debug\runner_game.Properties.Resources.resources
+D:\freshman summer\runner game\obj\Debug\runner game.csproj.GenerateResource.cache
+D:\freshman summer\runner game\obj\Debug\runner game.csproj.CoreCompileInputs.cache
+D:\freshman summer\runner game\obj\Debug\runner game.exe
+D:\freshman summer\runner game\obj\Debug\runner game.pdb
